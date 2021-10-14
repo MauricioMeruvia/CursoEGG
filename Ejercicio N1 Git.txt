@@ -1,1 +1,3 @@
 Esto es una prueba con GIT
+Seguimos trabajando con git.
+Hacemos el ejercicio 2 de la Guia de Git
